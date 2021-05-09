@@ -2,9 +2,10 @@
 
  Using GAN to do super resolution of satellite images.
 
-![index_18_psnr_19.6009_ssim_0.6538](http://imghost.cx0512.com/images/2021/02/07/20210207202646.png)
-
-<p style="text-align:center;">Fig.1. From left to right: ground truth; srgan result; bicubic result.</p>
+<p align="center">
+  <img src="http://imghost.cx0512.com/images/2021/02/07/20210207202646.png" title="Fig.1. From left to right: ground truth; srgan result; bicubic result">
+    Fig.1. From left to right: ground truth; srgan result; bicubic result
+</p>
 
 This is a mini project fulfilled for ELEG5491: Introduction to Deep Learning, The Chinese University of Hong Kong. The course website is [here](http://dl.ee.cuhk.edu.hk/).  
 
