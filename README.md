@@ -1,3 +1,15 @@
+# Satellite-image-SRGAN using PyTorch
+
+ Using GAN to do super resolution of satellite images.
+
+![index_18_psnr_19.6009_ssim_0.6538](http://imghost.cx0512.com/images/2021/02/07/20210207202646.png)
+
+<p style="text-align:center;">Fig.1. From left to right: ground truth; srgan result; bicubic result.</p>
+
+This is a mini project fulfilled for ELEG5491: Introduction to Deep Learning, The Chinese University of Hong Kong. The course website is [here](http://dl.ee.cuhk.edu.hk/).  
+
+The basic concept comes from the paper  [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802).
+
 **Research Topic**
 
 Pushbroom satellite image super-resolution using generative adversarial network 
@@ -45,3 +57,6 @@ Reconstruction performance for various features might be evaluated, including ar
 [3] Ledig, C. et al. in Proceedings of the IEEE conference on computer vision and pattern recognition.  4681-4690.
 
 [4] Goodfellow, I. J. et al. Generative adversarial networks. arXiv preprint arXiv:1406.2661 (2014).
+
+[5] [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
+
