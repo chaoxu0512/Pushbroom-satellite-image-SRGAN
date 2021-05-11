@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2021.1.11)  9 MAY 2021 23:28
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2021.1.11)  11 MAY 2021 19:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -367,58 +367,65 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-Underfull \hbox (badness 5446) in paragraph at lines 117--122
-[]\TU/ptm/m/it/10 Many authors misunderstand the concept of
- []
-
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 220--226
+Underfull \hbox (badness 1189) in paragraph at lines 134--137
+\TU/pcr/m/n/10 itor in charge of these proceedings at the IEEE
+ []
 
+(./egpaper_final.bbl
+Underfull \hbox (badness 1147) in paragraph at lines 22--26
+[]\TU/ptm/m/it/9 Sergey Ioffe and Christian Szegedy.  Batch nor-
  []
 
 
-LaTeX Warning: Reference `fig:onecol' on page 4 undefined on input line 345.
-
-
-LaTeX Warning: Reference `fig:short' on page 4 undefined on input line 345.
-
-[4]
-Underfull \hbox (badness 1189) in paragraph at lines 433--436
-\TU/ptm/bx/n/10 itor in charge of these proceedings at the IEEE
+Underfull \hbox (badness 1137) in paragraph at lines 22--26
+\TU/ptm/m/it/9 reducing internal covariate shift.  arXiv preprint
  []
 
+
+Underfull \hbox (badness 1062) in paragraph at lines 55--59
+[]\TU/ptm/m/it/9 Huihui Song, Lei Zhang, Peikang Wang, Kaihua
+ []
+
+)
 File: fig1.pdf Graphic file (type pdf)
 <use fig1.pdf>
 File: fig2.pdf Graphic file (type pdf)
 <use fig2.pdf>
-(./egpaper_final.bbl
-Underfull \hbox (badness 1394) in paragraph at lines 26--29
-\TU/ptm/m/it/9 Super-resolution image reconstruction: a technical
+File: fig3.pdf Graphic file (type pdf)
+<use fig3.pdf>
+File: fig4.pdf Graphic file (type pdf)
+<use fig4.pdf>
+File: fig5.pdf Graphic file (type pdf)
+<use fig5.pdf>
+File: fig6.pdf Graphic file (type pdf)
+<use fig6.pdf>
+File: fig7.pdf Graphic file (type pdf)
+<use fig7.pdf>
+
+Overfull \hbox (13.56409pt too wide) in paragraph at lines 204--234
+ [] 
  []
 
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 461.
- [5] [6] [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 461.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 241.
+[4] [5] [6] [7] [8] [9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 241.
  (./egpaper_final.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 461.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 461.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 241.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 241.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 461.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 241.
  ) 
 Here is how much of TeX's memory you used:
- 9186 strings out of 492970
- 126087 string characters out of 6137298
- 215366 words of memory out of 5000000
- 13109 multiletter control sequences out of 15000+600000
- 13351 words of font info for 56 fonts, out of 8000000 for 9000
+ 9198 strings out of 492970
+ 126186 string characters out of 6137298
+ 216815 words of memory out of 5000000
+ 13123 multiletter control sequences out of 15000+600000
+ 11590 words of font info for 49 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 32i,19n,27p,1431b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,19n,28p,1431b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on egpaper_final.pdf (7 pages).
+Output written on egpaper_final.pdf (9 pages).
